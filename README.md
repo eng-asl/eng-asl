@@ -19,6 +19,6 @@ Developing practical engineering solutions, exploring intelligent and secure com
 
 - Website: https://eng-asl.com/
 - LinkedIn: https://www.linkedin.com/in/eng-asl/
-- X: https://x.com/mr_h0n3y1
+- X: https://x.com/eng_asl
 - Google Scholar: https://scholar.google.com/citations?user=o72gFwkAAAAJ
 - ORCID: https://orcid.org/0009-0001-4557-3641
